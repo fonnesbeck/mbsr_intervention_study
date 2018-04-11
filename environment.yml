@@ -1,0 +1,25 @@
+name: mbsr
+
+channels:
+ - conda-forge
+ - anaconda
+ 
+dependencies:
+- python=3.6
+- ipython
+- jupyter
+- notebook
+- ipyparallel
+- jupyter_client
+- jupyter_core
+- mkl-service
+- numba
+- numpy
+- pandas
+- patsy
+- pip
+- scikit-learn
+- scipy
+- seaborn
+- pip:
+  - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
