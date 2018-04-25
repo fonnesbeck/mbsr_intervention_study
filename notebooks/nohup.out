@@ -1,0 +1,22 @@
+[W 16:00:43.669 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 16:00:43.690 NotebookApp] Loading IPython parallel extension
+[I 16:00:43.715 NotebookApp] JupyterLab beta preview extension loaded from /home/christopher_fonnesbeck/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 16:00:43.715 NotebookApp] JupyterLab application directory is /home/christopher_fonnesbeck/anaconda3/share/jupyter/lab
+[I 16:00:43.721 NotebookApp] Serving notebooks from local directory: /home/christopher_fonnesbeck/mbsr_intervention_study/notebooks
+[I 16:00:43.721 NotebookApp] 0 active kernels
+[I 16:00:43.721 NotebookApp] The Jupyter Notebook is running at:
+[I 16:00:43.721 NotebookApp] http://[all ip addresses on your system]:8888/
+[I 16:00:43.721 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:00:55.181 NotebookApp] Kernel started: 10784e86-1919-4cf3-8682-2335558fa712
+[I 16:00:56.290 NotebookApp] Adapting to protocol v5.1 for kernel 10784e86-1919-4cf3-8682-2335558fa712
+[W 16:01:04.437 NotebookApp] Notebook MBSR Intervention Model.ipynb is not trusted
+[I 16:01:04.687 NotebookApp] Kernel started: 3a88a599-01f3-4f41-87ec-0dfe7f4abb92
+[I 16:01:05.858 NotebookApp] Adapting to protocol v5.1 for kernel 3a88a599-01f3-4f41-87ec-0dfe7f4abb92
+[W 16:01:25.017 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180425160043 (172.56.21.55) 9.38ms referer=http://104.154.199.172:8888/notebooks/MBSR%20Trial%20Analysis.ipynb
+[W 16:01:34.530 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180425160043 (172.56.21.55) 1.81ms referer=http://104.154.199.172:8888/notebooks/MBSR%20Intervention%20Model.ipynb
+[I 16:01:37.440 NotebookApp] Starting buffering for 3a88a599-01f3-4f41-87ec-0dfe7f4abb92:1961ece043b343f4ac03ea3c7272feb4
+[I 16:01:42.790 NotebookApp] Kernel shutdown: 3a88a599-01f3-4f41-87ec-0dfe7f4abb92
+[I 16:02:42.089 NotebookApp] Saving file at /MBSR Trial Analysis.ipynb
+[I 16:04:56.970 NotebookApp] Saving file at /MBSR Trial Analysis.ipynb
+[I 16:16:37.304 NotebookApp] Saving file at /MBSR Trial Analysis.ipynb
+[I 16:16:37.948 NotebookApp] Starting buffering for 10784e86-1919-4cf3-8682-2335558fa712:bf8279661a274b8386471c108ca0121b
